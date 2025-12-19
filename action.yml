@@ -1,3 +1,5 @@
+https://github.com/theomart77/nano_node/blob/dependabot%2Fnpm_and_yarn%2Facorn-5.7.4/action.yml
+
 name: 'Setup Node.js environment'
 description: 'Setup a Node.js environment and add it to the PATH, additionally providing proxy support'
 author: 'GitHub'
